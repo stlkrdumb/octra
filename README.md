@@ -30,6 +30,14 @@ cp wallet.json.example wallet.json
 ```
 nano wallet.json
 ```
+```
+{
+  "priv": "private-key-here",
+  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "rpc": "https://octra.network"
+}
+```
+
 **Edit `"private key here"`, `"octxxxx"` & Save the file**
 
 **Running the script**
